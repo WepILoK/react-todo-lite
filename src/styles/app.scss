@@ -12,9 +12,9 @@ body {
   width: 530px;
   height: 500px;
   background-color: #fff;
-  box-shadow: 0px 9px 24px rgba(0, 0, 0, 0.01), 0px 25px 40px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 9px 24px rgba(0, 0, 0, 0.01), 0 25px 40px rgba(0, 0, 0, 0.05);
   border-radius: 6px;
-  overflow: hidden;
+  overflow: auto;
   border: 1px solid #ebebeb;
 
   &__header {
